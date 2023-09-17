@@ -1,0 +1,9 @@
+res://Scenes/world.tscn
+res://Scenes/player.tscn
+res://Scenes/slime.tscn
+res://script/player.gd
+res://script/world.gd
+res://script/global.gd
+res://Scenes/cliff_side.tscn
+res://script/cliff_side.gd
+res://script/slime.gd
